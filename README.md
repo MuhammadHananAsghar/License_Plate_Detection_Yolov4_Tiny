@@ -1,5 +1,5 @@
 # License_Plate_Detection_Yolov4_Tiny
-Dataset Download Link: https://drive.google.com/file/d/17tBz1tFNKLqD-8bfN_9ytN_MvFh0g_HG/view?usp=sharing
+Dataset Download Link: https://www.kaggle.com/muhammadhananasghar/license-plate-detection-yolov4-and-yolov4tiny
 
 Trained Weights Link: https://drive.google.com/file/d/1-WRl-SMEUT-x46zKbIdO6RIJJ6FtYHnq/view?usp=sharing
 
